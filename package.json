@@ -1,0 +1,16 @@
+{
+  "name": "personel-takip",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "concurrently \"npm run server\" \"npm run client\"",
+    "server": "cd server && npm start",
+    "client": "cd client && npm start",
+    "build": "cd client && npm run build"
+  },
+  "dependencies": {
+    "concurrently": "^6.0.0",
+    "cors": "^2.8.5",
+    "formik": "^2.4.6",
+    "yup": "^1.4.0"
+  }
+}

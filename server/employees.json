@@ -1,0 +1,27 @@
+[
+    {
+      "id": "1",
+      "name": "John Doe",
+      "position": "Developer",
+      "department": "IT",
+      "email": "john.doe@example.com",
+      "phone": "1234567890",
+      "entryDate": null,
+      "entryTime": null,
+      "exitDate": null,
+      "exitTime": null
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "position": "Manager",
+      "department": "HR",
+      "email": "jane.smith@example.com",
+      "phone": "0987654321",
+      "entryDate": null,
+      "entryTime": null,
+      "exitDate": null,
+      "exitTime": null
+    }
+  ]
+  
